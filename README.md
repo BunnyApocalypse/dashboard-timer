@@ -4,7 +4,7 @@ Dashboard is a set of systemd timers and services that will turn off and on moni
 
 ## Configuration
 
-* Edit the vars file for your desired times to turn the monitor on and off
+* Edit the [timer files](https://wiki.archlinux.org/index.php/Systemd/Timers) for your desired times to turn the monitor on and off
 
 ## Usecases
 
