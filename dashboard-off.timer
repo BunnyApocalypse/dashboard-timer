@@ -1,0 +1,8 @@
+[Unit]
+Description=Turn off the dashboard 
+
+[Timer]
+OnCalendar=Mon,Tue,Wed,Thu,Fri *-*-* 18:00:00
+
+[Install]
+WantedBy=timers.target

@@ -1,6 +1,6 @@
 # dashboard-timer
 
-Dashboard is a set of systemd timers and services that will turn off and on monitors at specific times.
+Dashboard is a set of systemd timers and services that will turn off and on monitors running GNOME at specific times. It can replace any past uses of xrandr to do this task on Wayland, so long as they are running GNOME.
 
 ## Configuration
 

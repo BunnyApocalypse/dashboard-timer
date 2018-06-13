@@ -1,0 +1,6 @@
+[Unit]
+Description=Turns on dashboard
+
+[Service]
+Type=oneshot
+ExecStart=busctl --user set-property org.gnome.Mutter.DisplayConfig /org/gnome/Mutter/DisplayConfig org.gnome.Mutter.DisplayConfig PowerSaveMode i 0
