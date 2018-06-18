@@ -15,4 +15,4 @@ Dashboard-timer is a set of system d timers and services that will turn off and 
 
 ## Troubleshooting
 
-* You may need to change settings on some tvs/monitors to turn off the "turn-off" timer, as when the TV/Monitor fully turns off, it'll ignore the signal that the computer sends it to turn back on.
+* You may need to change settings on some tvs/monitors to disable the "turn-off" timer, as when the TV/Monitor fully turns off (not including sleep mode), it'll ignore the signal that the computer sends it to turn back on.
