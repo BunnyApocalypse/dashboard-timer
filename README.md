@@ -12,3 +12,7 @@ Dashboard-timer is a set of system d timers and services that will turn off and 
 ## Usecases
 
 * Turning on and off an office dashboard at specific times so that it doesn't waste energy running when people aren't around
+
+## Troubleshooting
+
+* You may need to change settings on some tvs/monitors to turn off the "turn-off" timer, as when the TV/Monitor fully turns off, it'll ignore the signal that the computer sends it to turn back on.
